@@ -1,0 +1,45 @@
+# Default configuration file for the QR code generator, Use the RGB (Red | Green | Blue) format to customize the theme!!
+
+dark:
+  bg: !!seq
+    - 45
+    - 45
+    - 45
+  fg: !!seq
+    - 224
+    - 224
+    - 224
+  button_bg: !!seq
+    - 62
+    - 62
+    - 62
+  button_fg: !!seq
+    - 224
+    - 224
+    - 224
+  accent: !!seq
+    - 76
+    - 175
+    - 80
+
+light:
+  bg: !!seq
+    - 255
+    - 255
+    - 255
+  fg: !!seq
+    - 0
+    - 0
+    - 0
+  button_bg: !!seq
+    - 224
+    - 224
+    - 224
+  button_fg: !!seq
+    - 0
+    - 0
+    - 0
+  accent: !!seq
+    - 33
+    - 150
+    - 243
