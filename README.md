@@ -45,10 +45,10 @@ This QR Code Generator allows users to create QR codes quickly and easily with a
    ```
 
 ## 💻 Usage
-```
+
 Welcome to the QR Code Generator!
 Enter your text or URL in the input box and click "Generate QR" to create your QR code.
-```
+
 
 ## 🎨 Customization
 You can customize the appearance of the application by editing the `config.yaml` file. Here’s an example of how to define your themes:
